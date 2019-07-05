@@ -1,7 +1,7 @@
 
-###Выпускной проект
+### Выпускной проект
 
-##Обновление статьи в базе знаний Mozilla
+## Обновление статьи в базе знаний Mozilla
 
 [Allow or block media autoplay in Firefox](https://support.mozilla.org/en-US/kb/block-autoplay/history)
 ![](http://www.seoded.ru/istoriya/img/mozilla-firefox.png)
